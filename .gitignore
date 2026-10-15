@@ -1,0 +1,13 @@
+# Original datasets
+data/
+
+# Temporary and backup Python files
+test.py
+shot_profile_analysis_backup.py
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
